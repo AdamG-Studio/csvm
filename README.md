@@ -1,8 +1,7 @@
 # csvm
 An idea for a command line tool I would like to have. csvm name might already exist, this is just a temporary name. If someone can write something like this that would be great.
 
-NAME         csvm
-       csvm - tool for manipulating csv files
+csvm
               
 COMMAND-LINE Options
 
